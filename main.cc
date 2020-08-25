@@ -7,7 +7,7 @@ int main()
 {
     sf::RenderWindow window(sf::VideoMode(500, 500), "Sierpinski's Triangle !");
     window.setFramerateLimit(60);
-    
+     
     int  N = 9;  // Number of iterations
     Point A (250,0) ;    // Coordinates of the first triangle
     Point B (500,500) ;
