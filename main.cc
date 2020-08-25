@@ -6,6 +6,7 @@ void Sierpinski_Fractal(Point A, Point B, Point C, int n, sf::RenderWindow &wind
 int main()
 {
     sf::RenderWindow window(sf::VideoMode(500, 500), "Sierpinski's Triangle !");
+    window.clear(sf::Color::White) ;
     window.setFramerateLimit(60);
      
     int  N = 9;  // Number of iterations
