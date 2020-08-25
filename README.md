@@ -7,4 +7,6 @@ Use the following command on Ubuntu: ``sudo apt-get install libsfml-dev``
 
 An example of what you can get:
 
-<img src="/triangle_sierpinski.png" alt="Sierpinski's Triangle after 9 iterations"/>
+<img src="triangle_sierpinski.png" alt="Sierpinski's Triangle after 9 iterations"/>
+
+            Sierpinski's triangle after 9 iterations
