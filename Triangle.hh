@@ -6,7 +6,7 @@ class Triangle
 {
     public:
         Triangle(sf::Vector2f A, sf::Vector2f B, sf::Vector2f C, sf::Color color = sf::Color(255,0,0)) ; 
-        sf::ConvexShape getTriangle() ; 
+        sf::ConvexShape get() ; 
     private:
         sf::ConvexShape triangle ; 
 };
